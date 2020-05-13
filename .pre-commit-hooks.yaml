@@ -1,6 +1,6 @@
 -   id: setup-check
     name: Use setup.py check
     description: This hook runs setup.py check on pymodule repos
-    entry: setup_check
+    entry: setup-check
     language: python
     types: [text]
